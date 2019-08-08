@@ -1,24 +1,29 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Cristina Gomez",
+    "cvTitle":"Frontend Developer",
+    "cvDescription":"Luego de recorrer un camino largo en ventas y atención al cliente, decidí empezar de 0 nuevamente motivada por las ganas de sumar habilidades y desafíos y en búsqueda de nuevas oportunidades laborales, por eso este año decidí comenzar la aventura de aprender a programar realizando un curso de Desarrollo Frontend en Ada.",
     "social":[
-        {"name":"", "link":""}
+        {"name":"Instagram", "link":"https://www.instagram.com/sailorcris_/"},
+        {"name":"Facebook", "link":"https://www.facebook.com/SailorCris"},
+        {"name":"Twitter", "link":"https://twitter.com/SailorCris_"},
+        {"name":"Linkedin", "link":"www.linkedin.com/in/macristinagomez"},
+        {"name":"GitHub", "link":"https://github.com/cristigomez"}
+        
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Frontend Developer", "institution":"Ada ITW", "endYear":"2019", "description":"Curso de desarrolladora frontend. Conocimientos de HTML5, CSS3, Sass, Javascript, Bootstrap."},
+        {"title":"Tecnica en Turismo", "institution":"Instituto Superior Nº46", "endYear":"2016", "description":"80% de materias realizadas. Promedio 8.72."}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Ingles", "level":"Intermedio"},
+        {"title":"Aleman", "level":"Basico"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"bla bla", "subtitle":"bla bla", "excerpt":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, nostrum dignissimos at voluptatum vitae est rerum blanditiis architecto laudantium eligendi, assumenda molestiae aperiam dolorum earum repudiandae voluptas. Architecto, at. Sunt.", "text":"bla bla", "images":"bla bla"},
+        {"title":"bla bla", "subtitle":"bla bla", "excerpt":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, nostrum dignissimos at voluptatum vitae est rerum blanditiis architecto laudantium eligendi, assumenda molestiae aperiam dolorum earum repudiandae voluptas. Architecto, at. Sunt.", "text":"bla bla", "images":"bla bla"}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"1134127111",
+        "email":"Email: m.c.gomez@live.com"
     }
 }
